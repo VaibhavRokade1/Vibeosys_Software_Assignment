@@ -2,7 +2,7 @@ import { useSelector } from "react-redux";
 import { Link, NavLink } from "react-router-dom";
 
 export default function Layout({ children }) {
-  // Show dynamic product count in the header badge
+  
   const productCount = useSelector((s) => s.products.items.length);
 
   return (

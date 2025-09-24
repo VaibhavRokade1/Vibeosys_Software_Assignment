@@ -34,5 +34,30 @@ This project allows you to **add, view, search, filter, and display products** a
 - **React Redux** for connecting React with Redux  
 - **React Router DOM** (v6) for routing  
 - **UUID** for unique product IDs  
-- **Tailwindcss** for styling  
+- **Tailwindcss** for styling
+
+## Run Instructions
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/VaibhavRokade1/Vibeosys_Software_Assignment
+```
+
+### 2. Navigate into the project directory
+```bash
+cd Vibeosys_Software_Assignment
+
+```
+### 3. Install all dependencies
+```bash
+npm install
+
+```
+
+### 4. Start the development server
+```bash
+npm run dev
+```
+
+
 
